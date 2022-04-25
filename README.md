@@ -1,6 +1,6 @@
 # Exercicios-Pipeline-Java
 
-Exercicio realizado nas aulas do Curso da Letsa Code, onde foi trabalhado o assunto pipeline e Util.Optional.
+Exercicio realizado nas aulas do Curso da Lets Code, onde foi trabalhado o assunto pipeline e Util.Optional.
 
 Questão:
 
